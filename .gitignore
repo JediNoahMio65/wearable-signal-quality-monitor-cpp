@@ -1,0 +1,18 @@
+# Visual Studio workspace and user settings
+.vs/
+*.user
+*.suo
+
+# Visual Studio build output
+x64/
+x86/
+Debug/
+Release/
+build/
+
+# Compiled binaries and debug symbols
+*.exe
+*.dll
+*.pdb
+*.obj
+*.ilk

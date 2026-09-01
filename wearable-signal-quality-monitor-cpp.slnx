@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="wearable-signal-quality-monitor-cpp.vcxproj" Id="4cbdec31-64de-4b0d-969c-b23c68f00fc1" />
+</Solution>
